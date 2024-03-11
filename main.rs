@@ -1,3 +1,3 @@
 fn main(){
-println!("sample");
+println!("sample 999");
 }
